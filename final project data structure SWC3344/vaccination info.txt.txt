@@ -1,0 +1,120 @@
+Redzwan Taufek;0303028352;Johor;19;Low Risk;null;null;null
+Wan Hakimi;0312746988;Perak;19;Low Risk;null;null;null
+Saiful Abrar;03847545459;Perak;19;High Risk;null;null;null
+Shaiful Zharfan;03474854590;Selangor;19;Low Risk;null;null;null
+Mohammad Zuhair;03747545057;Negeri Sembilan;19;High Risk;null;null;null
+Putra Qayyum;03475495089;Selangor;19;Low Risk;null;null;null
+Wan Danial;031115160023;Kelantan;19;Low Risk;null;null;null
+Mohammad Zuhairi;03123574500;Melaka;19;High Risk;null;null;null
+Syamil Afif;03474050565;Pahang;19;Low Risk;null;null;null
+Shafiq Rashdi;0343747405;Terengganu;19;High Risk;null;null;null
+Farid Azhar;02473457456;Kelantan;20;High Risk;null;null;null
+Abdul Muiz;02472345489;Kelantan;20;Low Risk;null;null;null
+Firdaus Aiman;0343475085;Perak;19;Low Risk;null;null;null
+Mohammad Fauzi;0374863598;Sarawak;19;High Risk;null;null;null
+Ainaa Maisarah;0595476986;Kedah;17;Low Risk;null;null;null
+Nur Dinna;9330475634;Kuala Lumpur;29;High Risk;null;null;null
+Nur Dalila;9590487545;Pulau Pinang;27;Low Risk;null;null;null
+Wan Noraidah;73534574589;Kelantan;57;High Risk;null;null;null
+Zakaria Mamat;79326747845;Sabah;57;High Risk;null;null;null
+Ali Ismail;75345890756;Perlis;60;High Risk;null;null;null
+Siti Raudah;10534954059;Kedah;4;Low Risk;null;null;null
+Danish Ikhmal;03450875895;Terengganu;19;Low Risk;null;null;null
+Arif Farhan;04573558358;Johor;18;High Risk;null;null;null
+Haidhir Syaqimi;010345767698;Johor;21;Low Risk;null;null;null
+Muhammad Zafran;065734534577;Selangor;16;Low Risk;null;null;null
+Yusyhid Hakim;024754057345;Perlis;20;Low Risk;null;null;null
+Riad Bazlan;990597595709;Sabah;22;High Risk;null;null;null
+Shariffah Munirah;037584755085;Perak;03;Low Risk;null;null;null
+Tun Nazierul;027832489789;Melaka;20;Low Risk;null;null;null
+Azri Haziq;015098753123;Kuala Lumpur;21;Low Risk;null;null;null
+Siti Zuraidah;854305755574;Pulau Pinang;34;High Risk;null;null;null
+Muhammad Alif;814734897416;Negeri Sembilan;30;High Risk;null;null;null
+Ahmad Khalid;895745465235;Melaka;26;Low Risk;null;null;null
+John Wick;8554893576578;Kuala Lumpur;34;Low Risk;null;null;null
+Dom Toretto;7867462432343;Selangor;40;High Risk;null;null;null
+Muhammad Ismail;9764547456359;Melaka;27;Low Risk;null;null;null
+Muhammad Fakhri;0344746545787;Terengganu;19;High Risk;null;null;null
+Azam Azman;99347349074643;Kelantan;23;Low Risk;null;null;null
+Kim Jinhwan;97387649847487;Pulau Pinang;25;High Risk;null;null;null
+Aiman Khuzairi;05349875554868;Perlis;17;Low Risk;null;null;null
+Nur Kasih;938472384754;Johor;24;Low Risk;null;null;null
+Nurul Syuhada;84382478743494;Pahang;35;High Risk;null;null;null
+Wan Khairin;01239423743943;Perak;22;High Risk;null;null;null
+Abdul Rahman;87312762394839;Sarawak;35;High Risk;null;null;null
+Jamaluddin Wira;76823472384788;Sabah;54;High Risk;null;null;null
+Othman Harun;77373894734984;Pahang;55;Low Risk;null;ull;null
+Syafiq Ruslan;803847284924;Selangor;33;Low Risk;null;null;null
+Ahmad Haron;730432575540;Sarawak;60;High Risk;null;null;null
+Putera Nor;022383288438;Kuala Lumpur;20;High Risk;null;null;null
+Alya Amirah;014903482905;Sabah;21;Low Risk;null;null;null
+Khatijah Sulaiman;988374098347230;Melaka;27;Low Risk;null;null;null
+Mokhtar Ruslan;949847394874978;Perlis;32;Low Risk;null;null;null
+Khadijah Hashim;894723948785458;Kuala Lumpur;39;High Risk;null;null;null
+Abdul Hamidah;9008390423758475491;Perak;40;High Risk;null;null;null
+Mariam Intan;91589573495734593;Sarawak;41;Low Risk;null;null;null
+Farah Nadia;03123345808605694;Selangor;19;Low Risk;null;null;null
+Amir Hakim;04423044359046456;Johor;18;High Risk;null;null;null
+Sharifah Alia;069728723092979409;Sabah;16;Low Risk;null;null;null
+Alia Umaira;0494859348534;Pahang;18;Low Risk;null;null;null
+Latifah Ramlah;76489347589435;Kelantan;52;High Risk;null;null;null
+Sharif Isa;962398290473404;Perak;24;High Risk;null;null;null
+Amir Ibrahim;974834794095790;Melaka;25;Low Risk;null;null;null
+Sabri Imran;742904982444397;Pulau Pinang;67;High Risk;null;null;null
+Farah Mokhtar;023910283190483;Selangor;20;Low Risk;null;null;null
+Arif Redzuan;870822086621;Johor;36;High Risk;null;null;null
+Zuhair Dahmer;801211408855;Terengganu;41;High Risk;null;null;null
+Zuhiri Jefri;891221608855;Perak;30;High Risk;null;null;null
+Ilyas Zubair;790125556964;Kedah;50;High Risk;null;null;null
+Alya Hanafi;820466102252;Selangor;44;High Risk;null;null;null
+Aishah Salleh;791111085544;Kelantan;55;High Risk;null;null;null
+Airin Ngah;891212118410;Kuala lumpur;30;Low Risk;null;null;null
+Ain Jamros;880405112256;Kuala lumpur;31;Low Risk;null;null;null
+Lyana Suhaimi;870510142233;Johor;32;Low Risk;null;null;null
+Insyirah Mustafa;861231145524;Melaka;33;High Risk;null;null;null
+Ahmad Iskandar;019312048349;Perlis;21;Low Risk;null;null;null
+Jamilah Iskandar;993403423490;Terengganu;22;Low Risk;null;null;null
+Mohamad Mahmud;771242390478;Sarawak;56;High Risk;null;null;null
+Faisal Halim;920192319848;Terengganu;29;Low Risk;null;null;null
+Muhammad Ali;910923173943;Sabah;30;High Risk;null;null;null
+Syed Fakhrul;033094473423;Selangor;19;Low Risk;null;null;null
+Azhar Harun;983174983448;Pulau Pinang;24;Low Risk;null;null;null
+Nurul Iman;970318374838;Kelantan;23;Low Risk;null;null;null
+Ibrahim Idris;8339103847350;Pahang;42;High Risk;null;null;null
+Saiful Azhar;0231234340540;Perlis;20;Low Risk;null;null;null
+Nur Melati;9202931830943;Terengganu;37;Low Risk;null;null;null
+Siti Halimah;7890423847594;Sabah;58;High Risk;null;null;null
+Sabri Zakaria;8129038143749;Melaka;50;High Risk;null;null;null
+Zarina Muhammad;9309235984590;Perak;28;Low Risk;null;null;null
+Wan Khairul;9903912840495;Kelantan;23;Low Risk;null;null;null
+Hashim Shamsuddin;84024923850975;Selangor;38;Low Risk;null;null;null
+Mariam Aishah;931037498234;Kuala Lumpur;26;High Risk;null;null;null
+Siti Aminah;790931284904;Pahang;57;High Risk;null;null;null
+Faisal Ruslan;981937128940;Melaka;25;Low Risk;null;null;null
+Fatimah Ahmad;800742349493;Kelantan;51;High Risk;null;null;null
+Iskandar Ruslan;8504923509453;Sabah;46;Low Risk;null;null;null
+Abdullah Yahya;7938927484348;Sarawak;57;High Risk;null;null;null
+Puteri Zarina;9493042359045;Selangor;26;Low Risk;null;null;null
+Mohamad Isa;8109127430955;Kuala Lumpur;46;High Risk;null;null;null
+Idris Danial;9820473489231;Perak;24;Low Risk;null;null;null
+Omar Ahmad;8931204923509;Perlis;39;Low Risk;null;null;null
+Muhammad Azfar;9340923504958;Melaka;30;Low Risk;null;null;null
+Ahmad Mokhtar;9423840934390;Selangor;31;Low Risk;null;null;null
+Farah Othman;9580234823092;Perak;32;High Risk;null;null;null
+Hamidah Omar;9634728941904;Johor;33;High Risk;null;null;null
+Abdullah Ahmad;8204937490230;Pahang;47;Low Risk;null;null;null
+Zakaria Imran;8340923402529;Teregganu;46;Low Risk;null;null;null
+Hashim Muhammad;8440923504954;Kelantan;45;Low Risk;null;null;null
+Azhar Ibrahim;858793472302;Perlis;44;High Risk;null;null;null
+Alya Sharifah;863047234029;Kedah;43;Low Risk;null;null;null
+Rahman Jaafar;871982489232;Johor;42;High Risk;null;null;null
+Aishah Rahim;884902384092;Melaka;41;Low Risk;null;null;null
+Mohamad Abdul;893981209144;Kedah;40;High Risk;null;null;null
+Puteri Fatimah;910391208423;Kelantan;38;High Risk;null;null;null
+Siti Jamilah;930473892342;Sarawak;36;Low Risk;null;null;null
+Melati Cahaya;959342342438;Kedah;34;Low Risk;null;null;null
+Aishah Rahman;969814932482;Perlis;33;Low Risk;null;null;null
+Sofea Batrisya;0349840293205;Selangor;19;Low Risk;null;null;null
+Puteri Madinah;0539482404620;Selangor;17;High Risk;null;null;null
+Aryan Pratama Bakri;039804349230;Perak;19;High Risk;null;null;null
+Muhammad Zulhilmi;049380493420;Selangor;18;Low Risk;null;null;null
